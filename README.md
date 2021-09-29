@@ -1,7 +1,5 @@
 # Kodluyoruz Ilk Repo
 
-![ımage](file:///C:/Users/akiff/Desktop/patika-task/resim.png)
-
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz il repo. İçerisinde bir README dosyası, bir adet de index.html barındırıyor.
 
 ## Installatıon
