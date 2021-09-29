@@ -1,16 +1,18 @@
 # Kodluyoruz Ilk Repo
 
-![Görsel](resim.png)
-Bu repo [kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz il repo. İçerisinde bir README dosyası, bir adet de index.html barındırıyor.
+![ımage](file:///C:/Users/akiff/Desktop/patika-task/resim.png)
+
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz il repo. İçerisinde bir README dosyası, bir adet de index.html barındırıyor.
 
 ## Installatıon
 
 Öncelikle projeyi clonelayın 
+
 `git clone https://github.com/akifaltun/kodluyoruzilkrepo.git `
 
 ## Usage 
 
-Projeyi cloneladıktan sonra Visual Studio Code programınd açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için :
 
